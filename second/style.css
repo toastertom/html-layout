@@ -1,0 +1,48 @@
+html,body {
+  height: 100%;
+  margin: 0px;
+}
+
+.container {
+  height: 100%;
+}
+
+.left {
+  height: 100%;
+  width: 33.33%;
+  background-color: blue;
+  margin: 0;
+  float: left;
+}
+
+.center {
+height: 100%;
+width: 33.33%;
+background-color: red;
+margin:auto;
+display: inline-block;
+
+}
+
+.right {
+  height: 100%;
+  width: 33.33%;
+  background-color: green;
+  right: 0px;
+  float: right;
+  position: relative;
+}
+
+.imageBox {
+height: 33.33%;
+width: 100%;
+background-color: purple;
+position: absolute;
+bottom: 0px;
+}
+
+h1 {
+  text-align: center;
+  color:white;
+  margin
+}
